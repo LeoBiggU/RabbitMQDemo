@@ -4,8 +4,9 @@
 一个 C# 语言使用 RabbitMQ 的案例，使用 Winform 做可视化操作界面
 
 #### 软件架构
-软件架构说明
-
+- 使用语言：C#
+- 可视化页面：Winform
+- Winform UI：SunnyUI
 
 #### 安装教程
 
